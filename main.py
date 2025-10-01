@@ -14,7 +14,7 @@ from sklearn.decomposition import PCA
 from collections import Counter
 
 # --- CONFIGURATION ---
-API_KEY = "AIzaSyCkYVCZF_XrWzX-ybuXGmELKT325rfeG7c" 
+API_KEY = "ENTER YOUR KEY HERE" 
 OUTPUT_DIR = 'output/'
 # --- END CONFIGURATION ---
 
